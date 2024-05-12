@@ -1,0 +1,7 @@
+.VendingMachine {
+    background-image: url('https://images8.alphacoders.com/985/985376.png');
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    width: 100%; /* Make sure the div takes up the full width */
+    height: 100vh; /* Make sure the div takes up the full height of the viewport */
+}
